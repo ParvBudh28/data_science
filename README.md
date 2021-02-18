@@ -5,3 +5,8 @@
 2. Web Scrapping using Beautfiul Soup and Scrapy
 3. Web crawling using Scrapy
 4. Web Automation using Selenium
+5. Telegram Bots
+6. Numpy and linear algebra
+7. Data Visualisation using Matplotlib
+8. Advanced Data Visualisation using Seaborn
+9. Pandas
